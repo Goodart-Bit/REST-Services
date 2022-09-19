@@ -1,0 +1,7 @@
+#surefire
+#Mon Sep 19 18:32:40 COT 2022
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.1\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\juand\\OneDrive\\Documentos de OneDrive\\NetBeansProjects\\MyProject
+file.encoding=UTF-8
+localRepository=C\:\\Users\\juand\\.m2\\repository
+basedir=C\:\\Users\\juand\\OneDrive\\Documentos de OneDrive\\NetBeansProjects\\MyProject
